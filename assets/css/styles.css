@@ -1,0 +1,25 @@
+.container{
+    background-color: peru;
+    display: flex; justify-content:center
+    
+}
+
+.container1{
+    background-color: aqua;
+    display: flex; justify-content: flex-start;
+}
+
+.container2{
+    background-color: red;
+    display: flex; justify-content: flex-end;
+}
+
+.container3{
+    background-color: green;
+    display: flex; justify-content: space-between;
+}
+
+.container4{
+    background-color: blue;
+    display: flex; justify-content: space-around;
+}
